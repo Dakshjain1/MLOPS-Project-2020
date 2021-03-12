@@ -1,8 +1,0 @@
-setup.py
-package/__init__.py
-package/__main__.py
-package/review2wordcloud.py
-package.egg-info/PKG-INFO
-package.egg-info/SOURCES.txt
-package.egg-info/dependency_links.txt
-package.egg-info/top_level.txt

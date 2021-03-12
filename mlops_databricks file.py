@@ -1,6 +1,6 @@
 # Databricks notebook source
 # connect to blob storage
-key = "DNWQTAts10rh6HnjI5uI965eIrimywQN88MIT5s7QcmiTbdmhSMlwG+xyEsH/g5EZBNORep/5TVeaPDBgaf6zQ=="
+key = "-------------------------------------"
 
 dbutils.fs.mount(
   source = "wasbs://mlopscontainer@mlopsprojblob.blob.core.windows.net",

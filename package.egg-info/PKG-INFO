@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: package
+Version: 0.1.0
+Summary: WordCloud Generator
+Home-page: UNKNOWN
+Author: Daksh Jain
+Author-email: daksh.jain00@gmail.com
+License: UNKNOWN
+Description: This function generates a WordCloud based on Reviews
+Platform: UNKNOWN

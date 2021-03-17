@@ -1,4 +1,4 @@
-# Visualize Company Reviews Into Wordcloud Using Python – NLP Powered Module Via End-2-End Azure Devops Pipeline
+#Visualize Company Reviews Into Wordcloud Using Python – NLP Powered Module Via End-2-End Azure Devops Pipeline
 
 <p align="center">
 MLOPS-Project-2020

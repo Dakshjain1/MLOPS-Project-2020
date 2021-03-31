@@ -34,3 +34,6 @@ $ python3 setup.py bdist_egg
 
 A Sample of our generated Wordcloud → 
 ![Wordcloud](https://github.com/Dakshjain1/MLOPS-Project-2020/raw/main/1.PNG)  
+
+A video of the complete process → 
+![Video of Project](https://drive.google.com/file/d/1S5YITLTI-Ex9PRG1jLQ5wUTk_Lr8MVrP/view?usp=sharing)

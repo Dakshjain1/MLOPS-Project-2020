@@ -32,8 +32,8 @@ $ python3 setup.py bdist_egg
 •	The Word Cloud is stored in the mounted folder as a png file.
 •	It is stored in the mount point so that it is also visible in Blob Storage for client access.
 
-A Sample of our generated Wordcloud → 
-![Wordcloud](https://github.com/Dakshjain1/MLOPS-Project-2020/raw/main/1.PNG)  
+A Sample of our generated Wordcloud →   
+![Wordcloud](https://github.com/Dakshjain1/MLOPS-Project-2020/raw/main/1.PNG)    
 
-A video of the complete process → 
-![Video of Project](https://drive.google.com/file/d/1S5YITLTI-Ex9PRG1jLQ5wUTk_Lr8MVrP/view?usp=sharing)
+A video of the complete process →   
+![Video of Project](https://drive.google.com/file/d/1S5YITLTI-Ex9PRG1jLQ5wUTk_Lr8MVrP/view?usp=sharing)  
